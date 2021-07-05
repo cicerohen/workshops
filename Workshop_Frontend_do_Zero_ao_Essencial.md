@@ -5,7 +5,7 @@
   <strong>Frontend do Zero ao Essencial</strong>
 </h1>
 <p align="center">
-  Workshop <b>online, GRATUITO E BÁSICO</b> de Front-end
+  Workshop <b>ONLINE E BÁSICO</b> de Front-end
 </p>
 
 ## Objetivos e motivações
